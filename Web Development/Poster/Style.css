@@ -1,0 +1,22 @@
+body {
+    background-color: #FEFBD8;
+}
+
+.poster {
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 75px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.s {
+    border: 5px solid #987D9A;
+    max-width: 800px;
+}
+
+.text {
+    font-size: 50px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
