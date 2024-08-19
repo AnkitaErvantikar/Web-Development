@@ -1,1 +1,2 @@
 # Web-Development
+I have successfully completed numerous practice projects in web development, utilizing a wide range of technologies, including HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, and React.js. These experiences have allowed me to build a strong foundation in both frontend and backend development, enabling me to create responsive, dynamic, and high-performance web applications.
